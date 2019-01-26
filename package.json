@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Denys8.github.io/todolist",
+  "homepage": "https://Denys8.github.io/todo",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
